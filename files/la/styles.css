@@ -78,6 +78,10 @@
   width:332px;
   height:118px;
 }
+#u5_img.selected {
+}
+#u5.selected {
+}
 #u6 {
   position:absolute;
   left:2px;
